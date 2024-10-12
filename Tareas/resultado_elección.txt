@@ -1,0 +1,22 @@
+Coalición: c1
+p1: 1
+p2: 1
+p31: 1
+p3: 3
+Total coalición c1: 6
+
+
+Coalición: c2
+p4: 4
+p5: 1
+Total coalición c2: 5
+
+
+Coalición: c3
+p6: 2
+p310: 1
+p7: 0
+Total coalición c3: 3
+
+
+La coalición ganadora es c1 con 6 votos.

@@ -1,0 +1,7 @@
+Año                 Atleta                      Time(s)
+2009  wr    Usain Bolt (Mundial Berlín 2009)     9.58
+2012  w0    Usain Bolt (Londres 2012)            9.63
+2024  1     Kishane Thompson (Jamaica)           9.77
+2024  2     Ferdinand Omanyala (Kenia)           9.79
+2024  wr    Diferencia media de tiempo           5.12
+2024  wo    Diferencia media de tiempo           5.07

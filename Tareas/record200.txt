@@ -1,0 +1,7 @@
+Año                 Atleta                      Time(s)
+2009  wr    Usain Bolt (Mundial Berlin 2009)     19.19
+2012  w0    Usain Bolt (Beijing 2008)            19.30
+2024  1     Noah Lyles (Estados Unidos)          19.53
+2024  2     Kenneth Bednarek (Estados Unidos)    19.59
+2024  wr    Diferencia media de tiempo           10.25
+2024  wo    Diferencia media de tiempo           10.14
